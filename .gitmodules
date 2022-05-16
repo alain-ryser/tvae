@@ -1,0 +1,3 @@
+[submodule "heart-echo-fork"]
+	path = heart-echo-fork
+	url = git@github.com:ArlyCH/heart-echo-fork.git
