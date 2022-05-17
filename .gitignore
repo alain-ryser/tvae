@@ -1,23 +1,6 @@
 # MacOs specific
 *.DS_Store
 
-# Logging
-lsf.*
-logs/*
-miccai_logs/*
-thesis_plots/*
-notebooks/exp*
-*/segmented_results/*
-*/segment_model/*
-*/0.25/*
-cache/*
-test/*
-*/*_logs/*
-paper_experiments/recs/*
-paper_experiments/heatmaps/*
-paper_experiments/trajectories/*
-paper_experiments/scores/*
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
